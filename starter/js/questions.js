@@ -1,4 +1,4 @@
-
+// Array of questions including options of possible answers
 
 const questions = [
     {
