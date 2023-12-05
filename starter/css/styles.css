@@ -87,3 +87,12 @@ li:nth-child(odd) {
   right: 10px;
 }
 
+#line-break {
+margin-top: 30px;
+}
+
+#correct-answer {
+  font-style: italic;
+  color: gray;
+  margin-top: 0;
+}
