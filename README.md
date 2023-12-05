@@ -34,7 +34,7 @@ https://stackoverflow.com/ - Utilised resources from this platform, MDN and yout
 
 ## Deployed application
 
-https://tosin1691.github.io/Timed-Coding-Quiz/
+https://tosin1691.github.io/Timed-Coding-Quiz/starter
 
 
 ## License
